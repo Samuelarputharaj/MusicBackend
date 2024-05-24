@@ -1,0 +1,188 @@
+body{
+    height: 100vh;
+    width:100vw;
+    background-color: #242424;
+    
+    margin: 0px;
+}
+
+header
+{
+    height: 80px;
+    width:100vw;
+    position: fixed;
+    background-color:#121212;
+    top: 0px;
+    display: flex;
+    align-items: center;  
+  
+       
+}
+
+.big-container
+{
+    width: 100vw;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #000000;
+    margin-top: 80px;
+   }
+.song-box1,.song-box2,.song-box3,.song-box4,.song-box5,.song-box6,.song-box7,.song-box8,.song-box9,.song-box10,.song-box11,.song-box12,.song-box13
+{
+    height: 80px;
+width:90vw;
+display: flex;
+align-items: center;
+border-radius: 10px;
+margin: 3px;
+padding-left:5px;
+padding-right:10px;
+
+background-color: #242424;
+}
+   
+    
+    
+
+.card-6,.card-7,.card-8,.card-9,.card-10,.card-11,.card-12,.card-13
+{
+    height: 60px;
+    width: 60px;
+    /* background-image: url(images.jpg); */
+    background-size: cover;
+    margin: 10px;
+    border-radius: 5px;
+
+}
+
+.circ
+{
+    height: 60px;
+    width:60px;
+    /* background-image: url(images-1.png); */
+    background-size: cover;
+    background-color:rgb(170, 130, 170);
+    margin:11px;
+    margin-left: 22px;
+    border-radius: 50%;
+    align-content: center;
+}
+
+.head-in,.head-in1
+{
+    margin-left: 30px;
+    color:aliceblue;
+    height: 20px;
+    width:82px;
+    background-color: #242424;
+    border-radius: 3px;
+    display: block;
+    padding: 10px;
+    text-align: center;
+
+    
+}
+.song,.art,.song-1,.singer{
+    color:aliceblue;
+    
+}
+a
+{
+    text-decoration: none;
+    color: aliceblue;
+}
+.playlist
+{
+    height: 74px;
+    width:96vw;
+    background-color:#121212;    
+    margin: 0px;
+    position: fixed;
+    bottom: 80px;
+    display: flex;
+    align-items: center;
+    border-radius: 3px;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 5px;
+
+}
+footer{
+    height: 80px;
+    width:100vw;
+    position: fixed;
+    background-color: #1db954;
+    bottom: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.card
+{
+    height: 40px;
+    width: 40px;
+    background-image: url(tum.jpg);
+    background-size: cover;
+    margin: 10px;
+    border-radius: 5px;
+
+}
+
+.card-1{
+    background-image: url(ayy.jpg);
+    background-size: cover;
+    height: 60px;
+    width: 60px;
+   
+    margin: 10px;
+    border-radius: 5px;
+
+}
+.card-2{
+    background-image: url(cha.jpg);
+    background-size: cover;
+    height: 60px;
+    width: 60px;
+   
+    margin: 10px;
+    border-radius: 5px;
+
+}
+.card-3{
+    background-image: url(dam.jpg);
+    background-size: cover;
+    height: 60px;
+    width: 60px;
+   
+    margin: 10px;
+    border-radius: 5px;
+
+}
+.card-4{
+    background-image: url(dor.jpg);
+    background-size: cover;
+    height: 60px;
+    width: 60px;
+   
+    margin: 10px;
+    border-radius: 5px;
+
+}
+.card-5
+{
+    background-image: url(idh.jpg);
+    background-size: cover;
+    height: 60px;
+    width: 60px;
+        margin: 10px;
+    border-radius: 5px;
+
+}
+
+i
+{
+    margin-left:16px;
+    margin-top: 5px;
+}

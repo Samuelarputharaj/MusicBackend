@@ -1,0 +1,138 @@
+*
+{
+    margin: 0px;
+    
+}
+.container{
+    height: 100vh;
+    width: 100vw;
+    background-color:black;
+    align-content: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+.header{
+    height: 30%;
+    width: 100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    }
+.icon
+{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color:  #1db954;
+    /* background-image: url("meow.jpg");
+    background-size: cover; */
+
+
+}
+.section
+{
+    font-size: 34px;
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+
+}
+.sign-up
+{
+    background-color:#1ed760    ;
+    height: 40px;
+    width: 300px;
+    border-radius: 25px;
+    text-align: center;
+    font-size: 18px;
+    padding:5px;
+    margin-top: 10px;
+    align-content: center;
+   
+
+    
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+
+.ph-no
+{
+
+    height: 40px;
+    border-radius: 25px;
+    text-align: center;
+    font-size: 18px;
+    margin-top: 10px;
+    color: white;
+    border: 2px solid gray;
+    align-content: center;
+    padding: 5px;
+}
+
+.google
+{
+    color: white;
+    height: 40px;
+    border-radius: 25px;
+    text-align: center;
+    font-size: 18px;
+    padding: 5px;
+    margin-top: 10px;
+    border: 2px solid gray;
+    align-content: center;
+}
+
+.fb
+{
+    color: white;
+    height: 40px;
+    border-radius: 25px;
+    text-align: center;
+    font-size: 18px;
+    padding:5px;
+    margin-top: 10px;
+    border: 2px solid gray;
+    align-content: center;
+}
+
+.login
+{
+
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    padding-top: 10px;
+    margin-top: 10px;
+    color: white;
+    
+}
+.ph-i
+{
+
+    position:absolute;
+    bottom: 185px;
+    left: 30px;
+    
+    
+}
+.go-i
+{
+    position: absolute;
+    left: 45px;
+    bottom: 130px;
+}
+
+.fb-i
+{
+    position: absolute;
+    left: 45px;
+    bottom: 67px;
+} 
+i
+{
+    margin: 20px;
+}
